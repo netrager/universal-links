@@ -5,8 +5,7 @@
 			{
 				"appID": "7QUVS98VDZ.de.fischer.ProfiBeraterApp",
 				"paths": [ 
-				"/de-de/produkte/*",
-				"*"
+				"/de-de/produkte/*"
 				]
 			}
 		]
