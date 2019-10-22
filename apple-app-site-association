@@ -4,7 +4,10 @@
 		"details": [
 			{
 				"appID": "7QUVS98VDZ.de.fischer.ProfiBeraterApp",
-				"paths": [ "*"]
+				"paths": [ 
+				"/de-de/produkte/*",
+				"*"
+				]
 			}
 		]
 	}
